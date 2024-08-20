@@ -6,6 +6,9 @@
 
 Este projeto é uma simulação desenvolvida em WordPress + Elementor para criar uma página fictícia chamada 'Sabor Caseiro'. O objetivo foi aplicar conhecimentos técnicos em um cenário realista, onde um cliente fictício do ramo de culinária expressa suas necessidades para a criação de um site que reflete a essência e os valores de uma empresa especializada em comida caseira e artesanal.
 
+## 🔗 Link de Acesso
+Deploy: [clique aqui!](https://main--saborcaseiro.netlify.app/)
+
 ## 📝 Escopo do Projeto
 
 Para criar um tema que atendesse às expectativas de um cliente real, foi solicitada ao ChatGPT a geração de um briefing detalhado de um cliente fictício. Esse briefing abrangeu desde a identidade da empresa até os objetivos e requisitos específicos para o site, criando assim um projeto robusto e direcionado.
@@ -38,8 +41,6 @@ Queremos um design limpo e moderno, com tons que remetam à natureza e frescor d
 
 Prazo: Gostaríamos de ver uma primeira versão em 2 semanas.
 ```
-
-## 🔗 Link de Acesso
 
 ## 👥Equipe
 | [<img src="https://avatars.githubusercontent.com/u/111311678?v=4" width=115><br><sub>Daniel Emidio</sub>](https://github.com/DanielEmidio1988) |
